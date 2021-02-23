@@ -6,3 +6,6 @@ ZCZC W00 10 L14 Assignment #4: registering for the course with Google Forms
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 3 L11 Assignment #1
 ZCZC W00 15 L12 Assignment #2
+ZCZC W00 20 L05 GSGS for Assignment #3
+ZCZC W00 35 L23 Discord discussion for Assignment Week 00
+ZCZC W00 15 L13 Assignment #3
