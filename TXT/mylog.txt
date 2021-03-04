@@ -9,3 +9,4 @@ ZCZC W00 15 L12 Assignment #2
 ZCZC W00 20 L05 GSGS for Assignment #3
 ZCZC W00 35 L23 Discord discussion for Assignment Week 00
 ZCZC W00 15 L13 Assignment #3
+ZCZC W01 45 L11 Assignment #1
