@@ -19,5 +19,8 @@ ZCZC W01 30 L15 Assignment #5
 ZCZC W01 45 L05 GSGS for Assignment #7 
 ZCZC W01 20 L17 Assignment #7
 ZCZC W01 30 L12 Assignment #2: GSGS, reading
+ZCZC W02 60 L14 Assignment #4
+ZCZC W02 60 L23 Discord discussion for Assignment Week 2
+
 
 
