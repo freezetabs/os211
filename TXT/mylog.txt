@@ -21,6 +21,13 @@ ZCZC W01 20 L17 Assignment #7
 ZCZC W01 30 L12 Assignment #2: GSGS, reading
 ZCZC W02 60 L14 Assignment #4
 ZCZC W02 60 L23 Discord discussion for Assignment Week 2
-
+ZCZC W02 15 L15 Assignment #5
+ZCZC W02 15 L16 Assignment #6
+ZCZC W02 10 L05 GSGS about Bash Script
+ZCZC W02 10 L19 Assignment #9
+ZCZC W02 5 L20 Assignment #10 and #11
+ZCZC W02 5 L17 Assignment #7
+ZCZC W02 40 L05 GSGS for Assignment #8
+ZCZC W02 30 L18 Assignment #8
 
 
