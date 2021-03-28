@@ -5,4 +5,7 @@ ZCZC W02 FXDROS
 ZCZC W03 FXDROS
 ZCZC W03 fwibisono87
 ZCZC W03 ganiirsyadi
+ZCZC W04 galacticor
+ZCZC W04 FXDROS
+ZCZC W04 ganiirsyadi
 
