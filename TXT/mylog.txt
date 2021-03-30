@@ -41,8 +41,12 @@ ZCZC W03 15 L09 AsDos: asking for assignment #8
 ZCZC W03 15 L18 Assignment #8
 ZCZC W03 10 L19 Assignment #9
 ZCZC W03 25 L16 Assignment #6
-
-
-
-
-
+ZCZC W03 60 L23 Discord discussion
+ZCZC W03 10 L13 Assignment #3
+ZCZC W03 20 L14 Assignment #4
+ZCZC W03 60 L05 GSGS for Assignment #5
+ZCZC W03 100 L15 Assignment #5
+ZCZC W03 45 L17 Assignment #7
+ZCZC W03 15 L18 Assignment #8
+ZCZC W03 10 L19 Assignment #9
+ZCZC W03 25 L16 Assignment #6
