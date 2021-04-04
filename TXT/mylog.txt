@@ -50,3 +50,12 @@ ZCZC W04 45 L17 Assignment #7
 ZCZC W04 15 L18 Assignment #8
 ZCZC W04 10 L19 Assignment #9
 ZCZC W04 25 L16 Assignment #6
+ZCZC W05 60 L23 Discord discussion
+ZCZC W05 40 L22 YouTube: Study related videos, for Assignment 3
+ZCZC W05 30 L05 GSGS: Study related, for Assignment 3
+ZCZC W05 10 L12 Assignment #2
+ZCZC W05 40 L13 Assignment #3
+ZCZC W05 20 L09 AsDos: asking regarding assignment
+ZCZC W05 90 L14 Assignment #4
+ZCZC W05 20 L15 Assignment #5
+ZCZC W05 15 L16 Assignment #6
