@@ -65,3 +65,12 @@ ZCZC W06 120 L13 Assignment #3
 ZCZC W06 90 L14 Assignment #4
 ZCZC W06 15 L15 Assignment #5
 ZCZC W06 15 L16 Assignment #6
+ZCZC W07 10 L12 Assignment #2
+ZCZC W07 90 L23 Discord discussion
+ZCZC W07 5 L09 AsDos: Demo to check eligibility
+ZCZC W07 60 L08 Trying something: Connecting to Dummy server
+ZCZC W07 120 L05 GSGS for Assignment #3
+ZCZC W07 40 L13 Assignment #3
+ZCZC W07 120 L14 Assignment #4
+ZCZC W07 15 L15 Assignment #5
+ZCZC W07 15 L16 Assignment #6
