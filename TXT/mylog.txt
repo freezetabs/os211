@@ -74,3 +74,10 @@ ZCZC W07 40 L13 Assignment #3
 ZCZC W07 120 L14 Assignment #4
 ZCZC W07 15 L15 Assignment #5
 ZCZC W07 15 L16 Assignment #6
+ZCZC W08 120 L12 Assignment #2
+ZCZC W08 90 L23 Discord discussion
+ZCZC W08 120 L05 GSGS for Assignment #3
+ZCZC W08 240 L13 Assignment #3
+ZCZC W08 20 L14 Assignment #4
+ZCZC W08 15 L15 Assignment #5
+ZCZC W08 15 L16 Assignment #6
