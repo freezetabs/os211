@@ -89,3 +89,10 @@ ZCZC W09 420 L14 Assignment #4
 ZCZC W09 35 L15 Assignment #5
 ZCZC W09 15 L16 Assignment #6
 ZCZC W09 10 L17 Assignment #7
+ZCZC W10 20 L12 Assignment #2
+ZCZC W10 90 L23 Discord discussion
+ZCZC W10 20 L13 Assignment #3
+ZCZC W10 1080 L14 Assignment #4
+ZCZC W10 15 L15 Assignment #5
+ZCZC W10 15 L16 Assignment #6
+ZCZC W10 10 L17 Assignment #7
